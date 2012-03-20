@@ -16,7 +16,7 @@ You can build the executable with Mono like so:
 
     $ mono stories.exe <developer key> <shared secret> <location>
 
-See [https://github.com/outsidein/api-examples](https://github.com/outsidein/api-examples) for details on how to specify location names.
+See [https://github.com/patch-engineering/api-examples](https://github.com/patch-engineering/api-examples) for details on how to specify location names.
 
 **Note:** This example doesn't actually work correctly in my environment (Mono/OS X); the runtime throws an exception when deserializing the JSON response from the first API request. Any help figuring out the issue would be appreciated! -bcm
 

@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>stories</name>
-  <url>http://github.com/outsidein/api-examples/java</url>
+  <url>http://github.com/patch-engineering/api-examples/java</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

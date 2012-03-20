@@ -10,7 +10,7 @@ The script requires the JSON gem. You can install it like so:
 
     stories.rb <developer key> <shared secret> <location>
 
-See [https://github.com/outsidein/api-examples](https://github.com/outsidein/api-examples) for details on how to specify location names.
+See [https://github.com/patch-engineering/api-examples](https://github.com/patch-engineering/api-examples) for details on how to specify location names.
 
 ### Example
 
